@@ -1,0 +1,49 @@
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+
+# ==========================
+# Virtual Environments
+# ==========================
+venv/
+env/
+ENV/
+.venv/
+
+# ==========================
+# IDE / Editor
+# ==========================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ==========================
+# Logs
+# ==========================
+*.log
+logs/
+
+# ==========================
+# macOS / Sistema
+# ==========================
+.DS_Store
+Thumbs.db
+.python-version
+
+# ==========================
+# Diretórios gerados pelo projeto
+# ==========================
+input/
+output/
+temp/
