@@ -42,14 +42,19 @@ Thumbs.db
 .python-version
 
 # ==========================
-# Diretórios gerados pelo projeto
+# Diretórios de dados (não versionar conteúdo)
 # ==========================
+
+# input deve existir no clone, mas ignorar conteúdo do usuário
 input/*
 !input/.gitkeep
 
-output/*
-!output/pdfs/.gitkeep
-!output/conversoes/.gitkeep
+# output e temp serão criados automaticamente
+output/
+temp/
 
-temp/*
-!temp/.gitkeep
+# ==========================
+# Arquivos descontinuados
+# ==========================
+src/analisar_imagens.py
+src/imagens_para_pdf.py
