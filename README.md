@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Repository size](https://img.shields.io/github/repo-size/angeline1986/gera_pdf)
+![Top language](https://img.shields.io/github/languages/top/angeline1986/gera_pdf)
 
 Ferramenta em Python para:
 
@@ -10,6 +12,13 @@ Ferramenta em Python para:
 -   📄 Extrair imagens (PNG) de PDFs\
 -   ⚡ Processamento automático por pasta
 
+---
+
+## 📌 Versão
+
+v1.0.1
+
+---
 ------------------------------------------------------------------------
 
 ## 📂 Estrutura do Projeto
