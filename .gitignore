@@ -44,6 +44,12 @@ Thumbs.db
 # ==========================
 # Diretórios gerados pelo projeto
 # ==========================
-input/
-output/
-temp/
+input/*
+!input/.gitkeep
+
+output/*
+!output/pdfs/.gitkeep
+!output/conversoes/.gitkeep
+
+temp/*
+!temp/.gitkeep
